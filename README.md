@@ -19,7 +19,7 @@
  
  1 x 2n3904 Transistor https://www.sparkfun.com/products/521
  
- 1 x Op-Amp, Comparitor L272
+ 1 x Op-Amp, Comparitor https://www.digikey.com/en/products/detail/stmicroelectronics/L272/634699
  
  1 x Potentiometer https://www.sparkfun.com/products/9806
  
