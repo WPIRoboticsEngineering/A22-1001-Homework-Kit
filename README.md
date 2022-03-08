@@ -19,7 +19,7 @@
  
  1 x 2n3904 Transistor https://www.sparkfun.com/products/521
  
- 1 x Op-Amp, Comparitor L272M (TCA0372DP1G) https://www.digikey.com/en/products/detail/onsemi/TCA0372DP1G/
+ 1 x Op-Amp, Comparator L272M (TCA0372DP1G) https://www.digikey.com/en/products/detail/onsemi/TCA0372DP1G/
  
  1 x Potentiometer https://www.sparkfun.com/products/9806
  
