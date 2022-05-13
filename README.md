@@ -1,4 +1,6 @@
 # A22-1001-Homework-Kit
+ 1 x Micro B Cable https://www.amazon.com/AmazonBasics-Double-Braided-Nylon-Charger/dp/B074VM7J5Z/
+
  1 x Digital Multimeter  https://www.sparkfun.com/products/12966
  
  1 x ESP32 https://www.mouser.com/ProductDetail/356-ESP32-DEVKITC32E
