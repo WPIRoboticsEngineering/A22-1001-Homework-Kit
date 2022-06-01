@@ -1,4 +1,5 @@
-# A22-1001-Homework-Kit
+# Homework Kit for RBE 1001
+
  1 x Micro B Cable https://www.amazon.com/AmazonBasics-Double-Braided-Nylon-Charger/dp/B074VM7J5Z/
 
  1 x Digital Multimeter  https://www.sparkfun.com/products/12966
